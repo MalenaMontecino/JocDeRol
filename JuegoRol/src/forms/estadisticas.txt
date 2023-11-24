@@ -1,0 +1,138 @@
+Nombre del personaje: Malena :))
+Tipo de personaje: Guerrero
+Duración de la partida: 10 segundos
+Vidas restantes: -1
+Cantidad de monedas obtenidas: 20
+-------------------------------
+Nombre del personaje: Barri :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 28 segundos
+Vidas restantes: 1
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: Felipe :))
+Tipo de personaje: Mago
+Duración de la partida: 44 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 20
+-------------------------------
+Nombre del personaje: dfsd :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 46 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 40
+-------------------------------
+Nombre del personaje: dasd :))
+Tipo de personaje: Mago
+Duración de la partida: 29 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: dasd :))
+Tipo de personaje: Mago
+Duración de la partida: 29 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: sda :))
+Tipo de personaje: Guerrero
+Duración de la partida: 6 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 0
+-------------------------------
+Nombre del personaje: dsd :))
+Tipo de personaje: Guerrero
+Duración de la partida: 5 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 0
+-------------------------------
+Nombre del personaje: fsd :))
+Tipo de personaje: Guerrero
+Duración de la partida: 17 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 20
+-------------------------------
+Nombre del personaje: Carlos :))
+Tipo de personaje: Guerrero
+Duración de la partida: 5 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 0
+-------------------------------
+Nombre del personaje: Malena :))
+Tipo de personaje: Guerrero
+Duración de la partida: 29 segundos
+Vidas restantes: 2
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: Felipe :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 14 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 20
+-------------------------------
+Nombre del personaje: dads :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 25 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 40
+-------------------------------
+Nombre del personaje: dasda :))
+Tipo de personaje: Guerrero
+Duración de la partida: 22 segundos
+Vidas restantes: 2
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: dasd :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 18 segundos
+Vidas restantes: 3
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: fsdfs :))
+Tipo de personaje: Guerrero
+Duración de la partida: 15 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 40
+-------------------------------
+Nombre del personaje: czxc :))
+Tipo de personaje: Guerrero
+Duración de la partida: 24 segundos
+Vidas restantes: 3
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: Malena :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 6 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 0
+-------------------------------
+Nombre del personaje: dasdasd :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 12 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 10
+-------------------------------
+Nombre del personaje: fsdf :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 29 segundos
+Vidas restantes: 1
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: Paz :))
+Tipo de personaje: Sacerdote
+Duración de la partida: 5 segundos
+Vidas restantes: 0
+Cantidad de monedas obtenidas: 0
+-------------------------------
+Nombre del personaje: Barriendo :))
+Tipo de personaje: Guerrero
+Duración de la partida: 22 segundos
+Vidas restantes: 2
+Cantidad de monedas obtenidas: 50
+-------------------------------
+Nombre del personaje: CDVVX :))
+Tipo de personaje: Guerrero
+Duración de la partida: 32 segundos
+Vidas restantes: 2
+Cantidad de monedas obtenidas: 50
+-------------------------------

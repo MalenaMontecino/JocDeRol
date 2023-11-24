@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JuegoDeRol">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JuegoRol_SIN_FICHERO.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JuegoRol_CON_FICHEROS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Malena_JuegoRol.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
